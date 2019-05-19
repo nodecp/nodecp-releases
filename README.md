@@ -17,10 +17,10 @@ nodecp is a Control Panel built for rAthena that was made with nodejs. ( herc co
 - `1.0.0` - Stable Release! Added *Hidden...* (Soon)
 
 ## FAQ
-**Q**: Why is there another rewrite?
+**Q**: Why is there another rewrite?  
 **A**: I felt like the new system won't work out with the old one. So i had to do this.
 
-**Q**: I found an Error! Where do i report it?
+**Q**: I found an Error! Where do i report it?  
 **A**: You have multiple options. PM me on Discord (**Universe#7440**), Reply on my rAthena Topic or Open an Issue on Github
 
 **Q**: I am a NodeJS Developer! I want to add my own Features.  
